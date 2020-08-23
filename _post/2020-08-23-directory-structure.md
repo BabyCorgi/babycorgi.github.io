@@ -1,7 +1,6 @@
 ---
 layout: page
-title:  "Welcome to Jekyll!"
-permalink: /directory-structure/
+title:  "my-post"
 ---
 
 # 2020-08-23-directory-structure.md
@@ -12,8 +11,8 @@ permalink: /directory-structure/
 
 I hope you like it!
 
-https://zhuanlan.zhihu.com/p/51240503
-https://jekyllrb.com/docs/structure/
+https://zhuanlan.zhihu.com/p/51240503  
+https://jekyllrb.com/docs/structure/  
 
 > .
 > ├── _config.yml
