@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: page
 title:  "Welcome to Jekyll!"
-permalink: /my-post-1/
+permalink: /directory-structure/
 ---
 
 # 2020-08-23-directory-structure.md
