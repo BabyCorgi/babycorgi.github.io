@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Welcome to Jekyll!"
+permalink: /my-post-1/
 ---
 
 # 2020-08-23-directory-structure.md
