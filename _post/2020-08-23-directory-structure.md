@@ -1,3 +1,16 @@
+---
+layout: post
+title:  "Welcome to Jekyll!"
+---
+
+# 2020-08-23-directory-structure.md
+
+## Welcome
+
+**Hello world**, this is my first Jekyll blog post.
+
+I hope you like it!
+
 https://zhuanlan.zhihu.com/p/51240503
 https://jekyllrb.com/docs/structure/
 
