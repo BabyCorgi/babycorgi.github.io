@@ -1,4 +1,4 @@
 theme: jekyll-theme-architect
-permalink: /blog/:year/:month/:day/:title
+permalink: /:categories/:year/:month/:day/:title/
 name: BabyCorgi
 markdown: kramdown
