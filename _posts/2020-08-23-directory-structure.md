@@ -1,18 +1,19 @@
 ---
-layout: default
-title:  "my-post"
+layout: post
+title:  "My Fist Post"
+author: BabyCorgi
 ---
 
-# 2020-08-23-directory-structure.md
 
-## Welcome
+# Welcome
 
 **Hello world**, this is my first Jekyll blog post.
 
 I hope you like it!
 
-https://zhuanlan.zhihu.com/p/51240503  
-https://jekyllrb.com/docs/structure/  
+https://zhuanlan.zhihu.com/p/51240503
+
+https://jekyllrb.com/docs/structure/
 
 > .
 > ├── _config.yml

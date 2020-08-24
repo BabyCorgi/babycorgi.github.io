@@ -1,4 +1,12 @@
 theme: jekyll-theme-architect
-permalink: /:categories/:year/:month/:day/:title/
 name: BabyCorgi
+
+# Build settings
+permalink: /:categories/:year/:month/:day/:title/
+
+
+# Markdown  settings
+# use Github Flavored Markdown !important
 markdown: kramdown
+kramdown:
+  input: GFM
